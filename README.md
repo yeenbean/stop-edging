@@ -1,8 +1,8 @@
-# stop edging
+# stop edging 🌊
 
-this isnt what we meant by edging anyway
+this isnt what we meant by edging anyway 🙄
 
-[remove edge](https://github.com/yeenbean/stop-edging/releases/latest)
+👉 [remove edge](https://github.com/yeenbean/stop-edging/releases/latest) 👈
 
 ## how it works
 
