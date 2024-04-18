@@ -2,6 +2,8 @@
 
 this isnt what we meant by edging anyway
 
+[remove edge](https://github.com/yeenbean/stop-edging/releases/latest)
+
 ## how it works
 
 microsoft edge is removed using the same process done by [privacy.sexy](https://privacy.sexy/):
